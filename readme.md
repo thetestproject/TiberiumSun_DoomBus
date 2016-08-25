@@ -1,0 +1,1 @@
+Place the rules.ini and art.ini files in your Tiberium Sun root folder.
